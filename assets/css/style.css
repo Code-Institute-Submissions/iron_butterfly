@@ -23,6 +23,14 @@
     background-color: #00cc00;
 }
 
+.bg-color-album-release{
+    background-color: #cccc00;
+}
+
+.bg-color-five-players{
+    background-color: #cccc00;
+}
+
 /*----------------------------------------------header*/
 
 header{
@@ -73,12 +81,10 @@ header{
 
 /*-----------------------------------------------Special Paddings/Margins/Text*/
 h1,
-h2{text-align: center}
-   
+h2,
 h3,
-h4 {
-    margin: 0;
-}
+h4 {text-align: center}
+
 
 /*----------------------------------------------nav*/
 
@@ -172,12 +178,18 @@ footer{
 
 /*----------------------------------------------section*/
 
-.bg-color-the-band{
-    background-color: #eef0ff;
+
+
+@media(min-width: 980px){
+.section-column{
+    padding: 0 30px 30px;
+    float: none;
+    display: block;
+}
 }
 
 .section-column{
-    padding: 0 30px 30px;
+    padding:0 30px 30px;
     float: none;
     display: table-cell;
 }
@@ -186,9 +198,58 @@ footer{
     display: table;
 }
 
-.sectio-heading{
+.section-heading{
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
 }
+
+/*----------------------------------------------music albums*/
+
+.timeline-item{
+    padding: 4em 2em 0em 2em;
+    position: relative;
+    color: #000;
+    border-left: 1px solid;
+}
+
+.timeline-item p{
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item::before{
+    content: attr(date);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    font-size: .8em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item::after{
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background: #333;
+}
+    
+.timeline-heading{
+    color: #000;
+    margin: 50px;
+}
+
+.album-items{
+    margin-bottom: 30px;
+}
+
