@@ -83,7 +83,7 @@ header{
 h1,
 h2,
 h3,
-h4 {text-align: center}
+h4 {text-align: center;}
 
 
 /*----------------------------------------------nav*/
@@ -200,10 +200,12 @@ footer{
 
 .section-heading{
     font-family: "Exo", sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     margin-top: 25px;
     margin-bottom: 40px;
 }
+
+
 
 /*----------------------------------------------music albums*/
 
