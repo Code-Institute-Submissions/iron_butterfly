@@ -10,15 +10,15 @@
 }
 
 .ui-menu-color-home{
-    background-color: #ffb732;
+    background-color: #ffd487;
 }
 
 .ui-menu-color-music{
-    background-color: #9b59b6;
+    background-color: #ff3333;
 }
 
 .ui-menu-color-audio{
-    background-color: #3498db;
+    background-color: #b0d8ff;
 }
 
 .ui-menu-color-contact{
@@ -26,13 +26,27 @@
 }
 
 .bg-color-band-info{
-    background-color: #ffb732;
+    background-color: #ffd487;
 }
 
 .bg-color-albums{
-    background-color: #9b59b6;
+    background-color: #ff3333;
+} 
+ 
+.bg-color-tracks{
+    background-color: #ffe6ff;
+}
+.bg-color-contact{
+    background-color: #ffffff;
 }
 
+.bg-color-tour-dates{
+    background-color:  #b0d8ff;
+}
+
+.bg-color-venue-info{
+    background-color: #f4f6f6;
+}
 
 /*------------------------------------Special Paddings/Margins/Text*/
 
@@ -48,7 +62,7 @@ h4{
 }
 
 .general-sub{
-    font-family: "Exo", sans-serif
+    font-family: "Exo", sans-serif;
     font-weight: 300;
     color: #fafafa;
 }
@@ -71,6 +85,27 @@ h4{
     text-align: center;
     }
 
+/*------------------------------------Contact*/
+
+.contact-heading{
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form{
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="submit"]{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #e84610;
+    color: #fafafa;
+}
 
 /*------------------------------------The band*/
 
@@ -91,6 +126,12 @@ h4{
 }
 }
 
+.center-form{
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+}
 /*------------------------------------Heading*/
 
 
@@ -182,6 +223,55 @@ header{
 
 
 
+
+/*------------------------------------Venue info*/
+
+.two-info-icon{
+    font-size: 26px;
+    color: #3498db;
+}
+
+
+.two-info-heading{
+    margin-bottom: 15px;
+}
+
+/*------------------------------------Tour dates*/
+
+
+
+.tour-dates-item{
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+.tour-dates-item .key,
+.tour-dates-item .value {
+    padding-right: 8px;
+}
+
+.tour-dates-item .key p,
+.tour-dates-item .value p {
+    margin: 0px;
+}
+
+.tour-dates-item .key{
+    display: inline-block;
+    width: 30%;
+    margin-right: 21px;
+    padding-top: 2px;
+    vertical-align: top;
+}
+
+.tour-dates-item .key p{
+    font-weight: 700;
+}
+
+.tour-dates-item .value{
+    display: inline-block;
+    position: relative;
+    width: 60%;
+}
 /*------------------------------------Band info*/
 
 .band-info-item{
@@ -216,14 +306,14 @@ header{
 /*------------------------------------Discography*/
 
 .album-heading{
-    color: #fafafa;
+    color: #000;
     margin-top: 30px;
     margin-bottom: 50px;
 }
 .timeline-item{
     padding: 4em 2em 0em 2em;
     position: relative;
-    color: #fafafa;
+    color: #000;
     border-left: 1px solid;
 }
 
@@ -255,10 +345,49 @@ header{
     left: -6px;
     border-radius: 12px;
     content: '';
-    background: #fafafa;
+    background: #000;
     
     
 }
+
+/*------------------------------------Audio*/
+.top-5-heading{
+   font-weight: 300;
+   margin-bottom: 15px;
+}
+
+audio:hover, audio:focus, audio:active
+{
+-webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-moz-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
+-webkit-transform: scale(1.05);
+-moz-transform: scale(1.05);
+transform: scale(1.05);
+}
+
+audio
+{
+-webkit-transition:all 0.5s linear;
+-moz-transition:all 0.5s linear;
+-o-transition:all 0.5s linear;
+transition:all 0.5s linear;
+-moz-box-shadow: 2px 2px 4px 0px #006773;
+-webkit-box-shadow:  2px 2px 4px 0px #006773;
+box-shadow: 2px 2px 4px 0px #006773;
+-moz-border-radius:7px 7px 7px 7px ;
+-webkit-border-radius:7px 7px 7px 7px ;
+border-radius:7px 7px 7px 7px ;
+margin-left: 0px;
+margin-top: 15px;
+margin-bottom: 20px;
+}
+
+.rightimage{
+    float: right;
+}
+    
+
 /*------------------------------------Footer*/
 
 footer{
