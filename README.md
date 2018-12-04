@@ -12,7 +12,7 @@
   late 60's or early 70's and maybe they might be a bit unsure how to get information from the website.  This is where the website is designed to be
   as user friendly as possible - crisp and clean, easy to see navigational buttons, not cluttered but having the correct information which is easy to spot
   and access.  Also the different elements of the site which will be accessed will not take the user from the main page, ie no new tabs will be open and therefore
-  the user will not get lost or have to use the back button.
+  the user will not get lost or have to use the back button.  I have tried breaking the website by using back and forward buttons but everything works fine.
   
   The design of the website utilizes HTML5 with bootstrap and additional CSS and fontawesome but the initial creation of the website was done using pen and paper to give a storyboard
   feel to the site.  The usage of fontsawesome which was demonstrated in a previous tutorial was implemented as it gave the website a more professional feel.
@@ -40,10 +40,16 @@
   I also confirmed that the design of my website would and is totally different from their existing one - this proves a unique design and no copyright should
   be infringed.
   
+  This website has been deployed in GitHUb, it was updated prior to deployment and a new repository has been created called amzn1963/iron_butterfly.
+  This website will not be visited by myself, my mentor, tutors and assessors can have access to the repository whenever they like.
+  
   The audio tracks used are my own tracks which I purchased but again due to copyright they cannot be used on this website if it was to go public.
   
   I have tried to encapsulate all the lessons learned through the Code Institute and the basis of the website design should encapsulate the clean and straightforward
-  design which the users will appreciate
+  design which the users will appreciate.
+  
+  Lastly, I have checked for bugs but couldn't find any - only query is the HTML validator does not like the attribute dates when used in a timeline - strange 
+  as one the tutors who gave a lesson used it.  Therefore I can only conclude if the Code Institute uses it and its OK then it is fine by me.
 
   Make some changes to the file, save, watch the preview, and have fun!
 
