@@ -113,7 +113,7 @@ button[type="submit"]{
 .textwrap{
     float: right;
     margin-left: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 39px;
     }
     
 /*------------------------------------Media Queries*/
@@ -156,19 +156,19 @@ header{
 }
 
 .name{
-    font-family: "Exo", sans-serif;
-    font-weight: 300;
+    font-family: sans-serif;
+    font-weight: 800;
     font-size: 46px;
     margin-top: 50px;
-    color: #ffffff;
+    color: #ff3333;
 }
     
 .title{
     font-family: "Roboto", sans-serif;
     font-weight: 200;
     font-size: 28px;
-    margin-top: 20px;
-    margin-bottom: 90px;
+    margin-top: 30px;
+    margin-bottom: 80px;
     color: #ffffff;
 
 }
@@ -226,13 +226,13 @@ header{
 
 /*------------------------------------Venue info*/
 
-.two-info-icon{
+.three-info-icon{
     font-size: 26px;
     color: #3498db;
 }
 
 
-.two-info-heading{
+.three-info-heading{
     margin-bottom: 15px;
 }
 
@@ -275,7 +275,7 @@ header{
 /*------------------------------------Band info*/
 
 .band-info-item{
-    margin-bottom: 20px;
+    margin-bottom: 26px;
     
 }
 
@@ -299,7 +299,7 @@ header{
    font-family: "Roboto", sans-serif;
    font-weight: 400;
    font-size: 15px;
-   padding-top: 5px;
+   padding-top: 6px;
 }
 
 
