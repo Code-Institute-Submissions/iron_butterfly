@@ -1,64 +1,114 @@
   Project Iron Butterfly
   
+  This is my first milestone project which has incorporated HTML5 and CSS from the first two modules of the course.
+  
   This project is showcasing a 60's rock band who in their day was one of the most influential progressive rock bands to come out of the USA.  
   Much more than your average "one hit wonder," Iron Butterfly, in many ways, epitomized late '60s hard rock, specifically the moment where 
   psychedelia spawned the somewhat media driven, somewhat accurate, and somewhat silly moniker of "acid rock.
   
-  I hope to show you the history of the band members (some who has sadly passed away), new band members who have embraced the Iron Butterfly music style, 
-  some of their classic tracks from multi-platinum albums.  It will be delight to people who know their music and hopefully give inspiration to the next
-  generation.
+  TABLE OF CONTENTS
   
-  With regards to the UX - user experience, if users were in their teens when Iron Butterfly came on the scene back in the 60's, the users are going to be in their 
-  late 60's or early 70's and maybe they might be a bit unsure how to get information from the website.  This is where the website is designed to be
-  as user friendly as possible - crisp and clean, easy to see navigational buttons, not cluttered but having the correct information which is easy to spot
-  and access.  Also the different elements of the site which will be accessed will not take the user from the main page, ie no new tabs will be open and therefore
-  the user will not get lost or have to use the back button.  I have tried breaking the website by using back and forward buttons but everything works fine.
-  
-  The design of the website utilizes HTML5 with bootstrap and additional CSS and fontawesome but the initial creation of the website was done using pen and paper to give a storyboard
-  feel to the site.  The usage of fontsawesome which was demonstrated in a previous tutorial was implemented as it gave the website a more professional feel.
-  
-  The site is split into 4 separate features: The home page for example introduces the current band members and each one has a little write up and picture.  
-  It also has a history section just to give the users a little bit of information.
-  
-  The music page has 5 tracks each with their own audio player and a short write up of the track.  The audio player is HTML5 with CSS styling (no Javascript used as
-  I have not done the module as yet), the transitions and animations for the audio player I found freely available and designed by other coders which suited the 
-  style of the webpage.  I have also added a timeline to give the user again more information about the initial album right through to some of the latest ones.
-  
-  The tour dates page has only one entry as the band are not touring at the moment but it does showcase where in the USA they last played and for what reason.
-  
-  The contact page is basically a form which a user could contact the band to place a booking.  This form is not active as I am not at that point in the course to
-  enable the form to work.  But it does demonstrate in a very simplistic way how a user can contact the band for bookings.
-  
-  The website has been designed for mobile first approach and it has been checked using the responsive settings in Chrome.  The HTML and CSS3 has been analysed using 
-  a validation service.
-  
-  The website has been finally committed to GitHUb, it has been updated as every webpage was completed.
-  
-  I also took the opportunity and spoke to Mike Green (percussionist of the band) to confirm if I could use any of the images of the band, ensuring him and all
-  band members that this is just a project and it will not be available to the general public.
-  
-  I also confirmed that the design of my website would and is totally different from their existing one - this proves a unique design and no copyright should
-  be infringed.
-  
-  This website has been deployed in GitHUb, it was updated prior to deployment and a new repository has been created called amzn1963/iron_butterfly.
-  This website will not be visited by myself, my mentor, tutors and assessors can have access to the repository whenever they like.
-  
-  The audio tracks used are my own tracks which I purchased but again due to copyright they cannot be used on this website if it was to go public.
-  
-  I have tried to encapsulate all the lessons learned through the Code Institute and the basis of the website design should encapsulate the clean and straightforward
-  design which the users will appreciate.
-  
-  Lastly, I have checked for bugs but couldn't find any - only query is the HTML validator does not like the attribute dates when used in a timeline - strange 
-  as one the tutors who gave a lesson used it.  Therefore I can only conclude if the Code Institute uses it and its OK then it is fine by me.
+    UX
+    
+        The initial design of the website was done using pen & paper - the design was not stored electronically but apart from a few enhancements, I have
+        stuck rigid to the initial design.
+        
+        This website is a simple 4 page site primarly designed to be as user friendly as possible.  
+        It has easy to see and click navigational buttons which will take the user to a new page on the website.  There are no external pages where a user 
+        might get lost.  But primarly the site is designed to give the user information (either historical, factural, visual, audible) in an uncomplicated
+        manner.
+        
+        As this band was formed in the 60's many users maybe classed as 'Silver Surfers', this is the primary target audience and therefore as the designer
+        I have taken this into consideration.
+        
+        It has a bootstrap framework set up incorporating fontawesome, CSS stylesheets and cloudflare for the hover butttons.  FLexbox was not used as I am 
+        not familier with its use.
+        
+        All social media links are not active (even though they are highlighted when hovered).  The previous modules did not include the processes or coding
+        required for the links to work.
+        
+    FEATURES
+    
+        Home Page
+        
+          This page gives the user all of the band information from current members (pictures and a short bio) also a timeline of events for the intial years.
+          
+        Music
+        
+          This page gives the user a tasting session of 5 tracks by the band (again including a write up of each track) but also a discography of albums 
+          released by the band.
+          
+        Tour Dates
+        
+          This page gives the user information relating to the last gig the band played at.  They are not touring at the moment so it is limited but there
+          is a fans video showcasing the band playing live at a previous gig.
+          
+        Contact
+        
+          This page gives the user an opportunity to submit a form to the band.  Although, all the fields can be filled out, there is no link to the band
+          as I have not received the training to allow this to happen.  But the form itself is again user friendly.
+          
+        Header
+        
+          The header which is displayed on every page has a really stylish logo and also the band name and their highest award they have received through album
+          sales.
+          
+        Footer
+        
+          The fotter which is displayed on every page has more information of the band, more details of their awards and the required social links.  These
+          links highlight when hovered over but as previously mentioned, they are inactive and do not link to any external sites.
+          
+    FEATURES LEFT TO IMPLEMENT
+    
+        Would of liked to have links to an online band shop where users could purchase mechandise, T shirts, caps etc, have a Point of Sale (POS) but
+        it would be outside of the projects remit.
+        
+    TECHNOLOGIES USED
+    
+        The framework used was bootstrap (see link https://getbootstrap.com/) which also gave me the CSS stylesheets that was required. These gave me the structure
+        that I required.Also I was impressed by one of the tutorials demonstrating different fonts and therefore I included fontawesome (see link https://fontawesome.com/). 
+        For all the hover tricks I went to https://cdnjs.com/.  All the technologies used was encouraged by various tutors in the modules and using their
+        knowledge and experience it was very useful.  Not only he usefulness but also an understanding a new coder needs to learn and implement with confidence.
+        
+    TESTING
+    
+        Using Chrome as my browser I used its tools to check the responsiveness of the website through various screen sizes.  I had already put @mediaquery in
+        the CSS stylesheets and checked each page individually.  They all respond correctly even though I can spot whitespace at certain screen sizes.  All hover
+        buttons work, audio files play and also the video file plays.  The form in the contact page can be accessed in any screen size and notifications are 
+        present when you place the mouse pointer over each individual form box.
+        
+        I have run the CSS through a validation site (see link https://jigsaw.w3.org/css-validator/) 
+        <p>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+        </a>
+        </p>
+       
+        please use the following link http://jigsaw.w3.org/css-validator/check/referer (for HTML/XML document only)
+    
+    DEPLOYMENT
+    
+        As the website was being built and also down to personal work issues (full time employed, high level of overtime), commits were spread out
+        over time.  Therefore, heavy and long coding work was carried out when not working and then commits were made.  GitHUb is up to dates
+        and has been viewed by my mentor.
+        
+    CREDITS
+    
+        Content/photos/media
+        
+          The text for the home page (the band) was taken from www.ironbutterfly.com
+          The text for the home page (band info) was taken from wikipedia https://en.wikipedia.org/wiki/Iron_Butterfly
+          The bio used for each track on the music page was taken from Classic Rock https://www.classicrockhistory.com/top-10-iron-butterfly-songs/
+          The 5 audio tracks on the music page are from my own personal music collection.
+          The discography on the music page was taken from wikipedia https://en.wikipedia.org/wiki/Iron_Butterfly
+          The text for the tour dates page was taken from Bands in Town https://www.bandsintown.com/
+          The fans video on the tour dates page was taken from https://www.bandsintown.com/
+          The booking form on the contacts page was taken from a design used in one of the modules of the course but modified
+          The logo and footer text for the band was taken from www.ironbutterfly.com
+          
+          All content taken from www.ironbutterfly.com was agreed by Mike Green (percussionist) via phone conversation
 
-  Make some changes to the file, save, watch the preview, and have fun!
 
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
-# iron_butterfly
+        

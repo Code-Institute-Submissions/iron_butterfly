@@ -107,15 +107,7 @@ button[type="submit"]{
     color: #fafafa;
 }
 
-/*------------------------------------The band*/
-
-
-.textwrap{
-    float: right;
-    margin-left: 10px;
-    margin-bottom: 39px;
-    }
-    
+  
 /*------------------------------------Media Queries*/
 
 @media(min-width: 992px){
@@ -221,7 +213,48 @@ header{
     height: 120px;
 }
 
+/*------------------------------------The band*/
 
+.the-band{
+    margin-bottom: 1px;
+}
+
+.textwrap{
+    float: right;
+    margin-left: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 45px;
+    }
+  
+/*------------------------------------Band info*/
+
+.band-info-item{
+    margin-bottom: 31px;
+    
+}
+
+.band-info-item .key,
+.band-info-item .value{
+    padding-right: 8px;
+}
+
+.band-info-item .key p,
+.band-info-item .value p{
+    margin: 0;
+}
+
+.band-info-item .key p{
+   font-family: "Roboto", sans-serif;
+   font-weight: 600;
+   font-size: 20px;
+}
+
+.band-info-item .value p{
+   font-family: "Roboto", sans-serif;
+   font-weight: 400;
+   font-size: 15px;
+   padding-top: 6px;
+}
 
 
 /*------------------------------------Venue info*/
@@ -271,35 +304,6 @@ header{
     display: inline-block;
     position: relative;
     width: 60%;
-}
-/*------------------------------------Band info*/
-
-.band-info-item{
-    margin-bottom: 26px;
-    
-}
-
-.band-info-item .key,
-.band-info-item .value{
-    padding-right: 8px;
-}
-
-.band-info-item .key p,
-.band-info-item .value p{
-    margin: 0;
-}
-
-.band-info-item .key p{
-   font-family: "Roboto", sans-serif;
-   font-weight: 600;
-   font-size: 20px;
-}
-
-.band-info-item .value p{
-   font-family: "Roboto", sans-serif;
-   font-weight: 400;
-   font-size: 15px;
-   padding-top: 6px;
 }
 
 
