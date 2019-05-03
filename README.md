@@ -68,7 +68,7 @@
         The framework used was bootstrap (see link https://getbootstrap.com/) which also gave me the CSS stylesheets that was required. These gave me the structure
         that I required.Also I was impressed by one of the tutorials demonstrating different fonts and therefore I included fontawesome (see link https://fontawesome.com/). 
         For all the hover tricks I went to https://cdnjs.com/.  All the technologies used was encouraged by various tutors in the modules and using their
-        knowledge and experience it was very useful.  Not only he usefulness but also an understanding a new coder needs to learn and implement with confidence.
+        knowledge and experience it was very useful.  Not only the usefulness but also an understanding a new coder needs to learn and implement with confidence.
         
     TESTING
     
@@ -91,7 +91,7 @@
     DEPLOYMENT
     
         As the website was being built and also down to personal work issues (full time employed, high level of overtime), commits were spread out
-        over time.  Therefore, heavy and long coding work was carried out when not working and then commits were made.  GitHUb is up to dates
+        over time.  Therefore, heavy and long coding work was carried out when time off permitted and the commits were made.  GitHUb is up to date
         and has been viewed by my mentor.
         
     CREDITS
@@ -105,7 +105,7 @@
           The discography on the music page was taken from wikipedia https://en.wikipedia.org/wiki/Iron_Butterfly
           The text for the tour dates page was taken from Bands in Town https://www.bandsintown.com/
           The fans video on the tour dates page was taken from https://www.bandsintown.com/
-          The booking form on the contacts page was taken from a design used in one of the modules of the course but modified
+          The booking form on the contacts page was taken from a design used in one of the modules of the course but modified to suit
           The logo and footer text for the band was taken from www.ironbutterfly.com
           
           All content taken from www.ironbutterfly.com was agreed by Mike Green (percussionist) via phone conversation
