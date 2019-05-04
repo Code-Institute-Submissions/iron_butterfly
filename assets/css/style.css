@@ -128,7 +128,7 @@ button[type="submit"]{
 
 
 header{
-    margin: 0;
+    margin-bottom: 0px;
 }
 
 .heading{
@@ -216,20 +216,15 @@ header{
 /*------------------------------------The band*/
 
 .the-band{
-    margin-bottom: 1px;
+    margin-bottom: 0px;
 }
 
-.textwrap{
-    float: right;
-    margin-left: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 45px;
-    }
+
   
 /*------------------------------------Band info*/
 
 .band-info-item{
-    margin-bottom: 31px;
+    margin-bottom: 20px;
     
 }
 
@@ -253,7 +248,7 @@ header{
    font-family: "Roboto", sans-serif;
    font-weight: 400;
    font-size: 15px;
-   padding-top: 6px;
+   padding-top: 15px;
 }
 
 
