@@ -1,11 +1,13 @@
 <h1>
-<a id="user-content-iron-butterfly" class="anchor" aria-hidden="true" href="#iron-butterfly">Iron Butterfly</a>
+<a id="user-content-iron-butterfly" class="anchor" aria-hidden="true" href="#iron-butterfly"></a>
 Iron Butterfly</h1>
 <blockquote>
  <p>This project  is showcasing one of America’s most successful, influential and progressive rock bands in the 60’s.  Iron Butterfly are much more than your average "one hit wonder," Iron Butterfly, in many ways, epitomized late '60s hard rock, specifically the moment where psychedelia spawned the somewhat media driven, somewhat accurate, and somewhat silly moniker of "acid rock.</p>
 </blockquote>
 
-<h2>Table of Contents</h2>
+<h2>
+<a id="user-content-table-of-contents" class="anchor" aria-hidden="true" href="#table-of-contents"></a>
+Table of Contents</h2>
 <ol>
  <li>
   <a href="#ux">UX</a>
