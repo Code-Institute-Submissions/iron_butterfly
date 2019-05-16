@@ -52,16 +52,36 @@ Table of Contents</h2>
 Features Left To Implement</h2>
 <blockquote>
  <p>Would have liked to design a purpose-built audio player which would have every album listed with their tracks, designed in a 60’s theme jukebox.</p>
+</blockquote>
+ <h2>
+  <a id="user-content-technologies-used" class="anchor" aria-hidden="true" href="#technologies-used"></a>
+Technologies Used</h2>
+<blockquote>
+ <p>The framework used was bootstrap (see link https://getbootstrap.com/) which also gave me the CSS stylesheets that was required. These gave me the structure that I required. 
+I was impressed by one of the tutorials demonstrating different fonts and therefore I included fontawesome (see link https://fontawesome.com/). 
+For all the hover tricks I went to https://cdnjs.com/.  All the technologies used was encouraged by various tutors in the modules and using their knowledge and experience it was very useful.  Not only the usefulness but also an understanding a new coder needs to learn and implement with confidence.</p>
+</blockquote>
+ <h2>
+  <a id="user-content-testing" class="anchor" aria-hidden="true" href="#testing"></a> 
+Testing</h2>
+<blockquote>
+ <p>Using Chrome as my default browser I used its development tools to check the responsiveness of the website through various screen sizes.  I had already put @mediaquery in the CSS stylesheets and checked each page individually.  
+All hover buttons work, audio files play and also the video file plays.  
+The form in the contact page can be accessed in any screen size and notifications are present when you place the mouse pointer over each individual form box.
+I have run the CSS through a validation site (see link https://jigsaw.w3.org/css-validator/)</p>
+        <p><a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+         src="http://jigsaw.w3.org/css-validator/images/vcss"
+         alt="Valid CSS!" />
+        </a>
+        </p>
+</blockquote>
+ <h2>
+  <a id="user-content-deployment" class="anchor" aria-hidden="true" href="#deployment"></a>
+Deployment</h2>
+<blockquote>
+ <p>As the website was being built and down to personal work issues (full time employed, high level of overtime), commits were spread out over time.  Therefore, heavy and long coding work was carried out when time off permitted, and the commits were made.  GitHUb is up to date  and has been viewed by my mentor.</p>
  </blockquote>
- <li>
-  <a href="#technologies-used">Technologies Used</a>
- </li>
- <li>
-  <a href="#testing">Testing</a>
- </li>
- <li>
-  <a href="#deployment">Deployment</a>
- </li>
  <li>
   <a href="#credits">Credits</a>
  </li>
@@ -111,12 +131,9 @@ The booking form were taken from Bootstrap forms but customised to suit the purp
 FEATURES LEFT TO IMPLEMENT
 •	Music & Video
    
-    TECHNOLOGIES USED
-•	The framework used was bootstrap (see link https://getbootstrap.com/) which also gave me the CSS stylesheets that was required. These gave me the structure that I required 
-•	I was impressed by one of the tutorials demonstrating different fonts and therefore I included fontawesome (see link https://fontawesome.com/). 
-•	 For all the hover tricks I went to https://cdnjs.com/.  All the technologies used was encouraged by various tutors in the modules and using their knowledge and experience it was very useful.  Not only the usefulness but also an understanding a new coder needs to learn and implement with confidence.
+
 TESTING
-•	Using Chrome as my default browser I used its development tools to check the responsiveness of the website through various screen sizes.  I had already put @mediaquery in  the CSS stylesheets and checked each page individually.  
+•	Using Chrome as my default browser I used its development tools to check the responsiveness of the website through various screen sizes.  I had already put @mediaquery in the CSS stylesheets and checked each page individually.  
 •	All hover buttons work, audio files play and also the video file plays.  
 •	The form in the contact page can be accessed in any screen size and notifications are         present when you place the mouse pointer over each individual form box.
 •	I have run the CSS through a validation site (see link https://jigsaw.w3.org/css-validator/) 
