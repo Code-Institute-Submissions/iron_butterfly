@@ -1,4 +1,6 @@
-<h1>Iron Butterfly</h1>
+<h1>
+<a id="user-content-iron-butterfly" class="anchor" aria-hidden="true" href="#iron-butterfly">Iron Butterfly</a>
+Iron Butterfly</h1>
 <blockquote>
  <p>This project  is showcasing one of America’s most successful, influential and progressive rock bands in the 60’s.  Iron Butterfly are much more than your average "one hit wonder," Iron Butterfly, in many ways, epitomized late '60s hard rock, specifically the moment where psychedelia spawned the somewhat media driven, somewhat accurate, and somewhat silly moniker of "acid rock.</p>
 </blockquote>
@@ -25,7 +27,40 @@
     </li>
     <li>
      <a href="#header">Header</a>
-    
+    </li>
+    <li>
+     <a href="#footer">Footer</a>
+    </li>
+    <li>
+     <a href="#navbar">Navbar</a>
+    </li>
+    <li>
+     <a href="#audio-player">Audio Player</a>
+    </li>
+    <li>
+     <a href="#video-player">Video Player</a>
+    </li>
+    <li>
+     <a href="#booking-form">Booking Form</a>
+    </li>
+   </ol>
+ </li>
+ <li>
+  <a href="#features-left-to-implement">Features Left To Implement</a>
+ </li>
+ <li>
+  <a href="#technologies-used">Technologies Used</a>
+ </li>
+ <li>
+  <a href="#testing">Testing</a>
+ </li>
+ <li>
+  <a href="#deployment">Deployment</a>
+ </li>
+ <li>
+  <a href="#credits">Credits</a>
+ </li>
+ 
 UX
 •	As this band was formed in the 60's many users may be classed as 'Silver Surfers', this is the primary target audience and therefore as the designer I have taken this into consideration.  Also, it gives a historical timeframe of how the band has evolved over time.
 
