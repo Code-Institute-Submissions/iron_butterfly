@@ -61,6 +61,17 @@ Table of Contents</h2>
  <li>
   <a href="#credits">CREDITS</a>
  </li>
+</ol>
+ <h2>
+  <a id="user-content-ux" class="anchor" aria-hidden="true" href="#ux"></a>
+UX</h2>
+<blockquote>
+ <p>As this band was formed in the 60's many users may be classed as 'Silver Surfers', this is the primary target audience and therefore as the designer I have taken this into consideration.  Also, it gives a historical timeframe of how the band has evolved over time.</p>
+  <p>The initial design of the website was done using pen & paper - the design was not stored electronically but apart from a few enhancements; I have stuck rigid to the initial design.</p>
+  <p>This project is a simple 4-page website primarily designed to be as user friendly as possible.       It has easy to see and click navigational buttons which will take the user to a new page on the website.  There are no external pages where a user might get lost.  But primarily the site is designed to give the user information (either historical, factual, visual, audible) in an uncomplicated manner.</p>
+  <p>There are links to the original pen & paper design which can be found in the folder website design that I created as part of the design process.</p>
+  <p>Keeping with the spirit of the bands ‘psychedelia’ image, I tried to use colours as a focal point to give the feel of what it would be like in the 60’s.  Many of my colleagues in work remarked (in a positive way) the clever use of colour which matched parts of the Logo and the navigation buttons.</p>
+</blockquote>
  <h2>
   <a id="user-content-features-left-to-implement" class="anchor" aria-hidden="true" href="#features-left-to-implement"></a>
 Features Left To Implement</h2>
@@ -113,16 +124,7 @@ Credits</h2>
 <p><strong>Special thanks go to one of my work colleagues Phil Harlow who suggested Iron Butterfly.</strong></p>
  </p>
 </blockquote>
-UX
-•	As this band was formed in the 60's many users may be classed as 'Silver Surfers', this is the primary target audience and therefore as the designer I have taken this into consideration.  Also, it gives a historical timeframe of how the band has evolved over time.
 
-•	The initial design of the website was done using pen & paper - the design was not stored electronically but apart from a few enhancements; I have stuck rigid to the initial design.
-
-•	This project is a simple 4-page website primarily designed to be as user friendly as possible.       It has easy to see and click navigational buttons which will take the user to a new page on the website.  There are no external pages where a user might get lost.  But primarily the site is designed to give the user information (either historical, factual, visual, audible) in an uncomplicated manner.
-
-•	There are links to the original pen & paper design which can be found in the folder website design that I created as part of the design process.  
-
-•	Keeping with the spirit of the bands ‘psychedelia’ image, I tried to use colours as a focal point to give the feel of what it would be like in the 60’s.  Many of my colleagues in work remarked (in a positive way) the clever use of colour which matched parts of the Logo and the navigation buttons.
 
 FEATURES
 •	Home Page
