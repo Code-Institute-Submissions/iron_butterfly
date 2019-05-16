@@ -82,10 +82,23 @@ Deployment</h2>
 <blockquote>
  <p>As the website was being built and down to personal work issues (full time employed, high level of overtime), commits were spread out over time.  Therefore, heavy and long coding work was carried out when time off permitted, and the commits were made.  GitHUb is up to date  and has been viewed by my mentor.</p>
  </blockquote>
- <li>
-  <a href="#credits">Credits</a>
- </li>
- 
+ <h2>
+  <a id="user-content-credits" class="anchor" aria-hidden="true" href="#credits"></a>
+Credits</h2>
+<blockquote>
+ <p>The text for the home page (the band) was taken from www.ironbutterfly.com
+The text for the home page (band info) was taken from Wikipedia https://en.wikipedia.org/wiki/Iron_Butterfly
+The bio used for each track on the music page was taken from Classic Rock https://www.classicrockhistory.com/top-10-iron-butterfly-songs/
+The 5 audio tracks on the music page are from my own personal music collection.
+The discography on the music page was taken from Wikipedia https://en.wikipedia.org/wiki/Iron_Butterfly
+The text for the tour dates page was taken from Bands in Town https://www.bandsintown.com/
+The fans video on the tour dates page was taken from https://www.bandsintown.com/
+The booking form on the contacts page was taken from a design used in one of the modules of the course but modified to suit.
+The logo and footer text for the band was taken from www.ironbutterfly.com
+All content taken from www.ironbutterfly.com was agreed by Mike Green (percussionist) via phone conversation.
+Special thanks go to one of my work colleagues Phil Harlow who suggested Iron Butterfly.
+ </p>
+</blockquote>
 UX
 •	As this band was formed in the 60's many users may be classed as 'Silver Surfers', this is the primary target audience and therefore as the designer I have taken this into consideration.  Also, it gives a historical timeframe of how the band has evolved over time.
 
