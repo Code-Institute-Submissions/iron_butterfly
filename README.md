@@ -8,7 +8,7 @@ Iron Butterfly</h1>
 <h2>
 <a id="user-content-table-of-contents" class="anchor" aria-hidden="true" href="#table-of-contents"></a>
 Table of Contents</h2>
-<ol>
+<ol start="2">
  <li>
   <a href="#ux">UX</a>
  </li>
@@ -47,9 +47,12 @@ Table of Contents</h2>
     </li>
    </ol>
  </li>
- <li>
-  <a href="#features-left-to-implement">Features Left To Implement</a>
- </li>
+ <h2>
+  <a id="user-content-features-left-to-implement" class="anchor" aria-hidden="true" href="#features-left-to-implement"></a>
+Features Left To Implement</h2>
+<blockquote>
+ <p>Would have liked to design a purpose-built audio player which would have every album listed with their tracks, designed in a 60’s theme jukebox.</p>
+ </blockquote>
  <li>
   <a href="#technologies-used">Technologies Used</a>
  </li>
@@ -107,7 +110,7 @@ The booking form were taken from Bootstrap forms but customised to suit the purp
 
 FEATURES LEFT TO IMPLEMENT
 •	Music & Video
-Would have liked to design a purpose-built audio player which would have every album listed with their tracks, designed in a 60’s theme jukebox.    
+   
     TECHNOLOGIES USED
 •	The framework used was bootstrap (see link https://getbootstrap.com/) which also gave me the CSS stylesheets that was required. These gave me the structure that I required 
 •	I was impressed by one of the tutorials demonstrating different fonts and therefore I included fontawesome (see link https://fontawesome.com/). 
