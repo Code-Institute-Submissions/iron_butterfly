@@ -1,13 +1,31 @@
-<h1>"Iron Butterfly"</h1>
+<h1>Iron Butterfly</h1>
 <blockquote>
  <p>This project  is showcasing one of America’s most successful, influential and progressive rock bands in the 60’s.  Iron Butterfly are much more than your average "one hit wonder," Iron Butterfly, in many ways, epitomized late '60s hard rock, specifically the moment where psychedelia spawned the somewhat media driven, somewhat accurate, and somewhat silly moniker of "acid rock.</p>
 </blockquote>
 
-<h2>"Table of Contents"</h2>
+<h2>Table of Contents</h2>
 <ol>
  <li>
   <a href="#ux">UX</a>
  </li>
+ <li>
+  <a href="#features">FEATURES</a>
+   <ol>
+    <li>
+     <a href="#home-page">Home Page</a>
+    </li>
+    <li>
+     <a href="#music-page">Music Page</a>
+    </li>
+    <li>
+     <a href="#tour-dates-page">Tour Dates Page</a>
+    </li>
+    <li>
+     <a href="#contact-page">Contact Page</a>
+    </li>
+    <li>
+     <a href="#header">Header</a>
+    
 UX
 •	As this band was formed in the 60's many users may be classed as 'Silver Surfers', this is the primary target audience and therefore as the designer I have taken this into consideration.  Also, it gives a historical timeframe of how the band has evolved over time.
 
