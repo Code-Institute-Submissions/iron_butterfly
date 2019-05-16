@@ -1,10 +1,14 @@
- Project Title
-•	Iron Butterfly
-Overview
-•	This project  is showcasing one of America’s most successful, influential and progressive rock bands in the 60’s.  Iron Butterfly are much more than your average "one hit wonder," Iron Butterfly, in many ways, epitomized late '60s hard rock, specifically the moment where psychedelia spawned the somewhat media driven, somewhat accurate, and somewhat silly moniker of "acid rock.
+<h1>"Iron Butterfly"</h1>
+<blockquote>
+ <p>This project  is showcasing one of America’s most successful, influential and progressive rock bands in the 60’s.  Iron Butterfly are much more than your average "one hit wonder," Iron Butterfly, in many ways, epitomized late '60s hard rock, specifically the moment where psychedelia spawned the somewhat media driven, somewhat accurate, and somewhat silly moniker of "acid rock.</p>
+</blockquote>
 
+<h2>"Table of Contents"</h2>
+<ol>
+ <li>
+  <a href="#ux">UX</a>
+ </li>
 UX
-
 •	As this band was formed in the 60's many users may be classed as 'Silver Surfers', this is the primary target audience and therefore as the designer I have taken this into consideration.  Also, it gives a historical timeframe of how the band has evolved over time.
 
 •	The initial design of the website was done using pen & paper - the design was not stored electronically but apart from a few enhancements; I have stuck rigid to the initial design.
