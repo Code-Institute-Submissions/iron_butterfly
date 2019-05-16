@@ -75,7 +75,7 @@ UX</h2>
  <h2>
   <a id="user-content-features" class="anchor" aria-hidden="true" href="#features"></a>
 Features</h2>
-<ol start="2">
+<ol>
   <li>
  <h3>
   <a id="user-content-home-page" class="anchor" aria-hidden="true" href="#home-page"></a>
@@ -92,7 +92,72 @@ Music Page</h3>
  <p>This page gives the user a tasting session of 5 tracks by the band (again including a write up of each track) but also a discography of albums released by the band.</p>
 </blockquote>
   </li>
-  
+  <li>
+ <h3>
+  <a id="user-content-tour-dates-page" class="anchor" aria-hidden="true" href="#tour-dates-page"></a>
+Tour Dates Page</h3>
+<blockquote>
+ <p>This page gives the user information relating to forthcoming tours the band have planned.  Also, there is a fans video showcasing the band playing live at a previous gig.</p>
+</blockquote>
+  </li>
+  <li>
+ <h3>
+  <a id="user-content-Contact-page" class="anchor" aria-hidden="true" href="#contact-page"></a>
+Contact Page</h3>
+<blockquote>
+ <p>This page gives the user an opportunity to submit a form to the band.  Although, all the fields can be filled out, the link to the band is not active and it is outside the remit of this project.  But the form itself is again user friendly.</p>
+</blockquote>
+  </li>
+  <li>
+ <h3>
+  <a id="user-content-header" class="anchor" aria-hidden="true" href="#header"></a>
+Header</h3>
+<blockquote>
+ <p>The header which is displayed on every page has a real stylish logo also the band name and their highest award they have received through album sales.</p>
+</blockquote>
+  </li>
+  <li>
+ <h3>
+  <a id="user-content-footer" class="anchor" aria-hidden="true" href="#footer"></a>
+Footer</h3>
+<blockquote>
+ <p>The footer which is displayed on every page has more information of the band, more details of their awards and the required social links.  These links highlight when hovered over but as previously mentioned, they are inactive and do not link to any external sites.</p>
+</blockquote>
+  </li>
+ <li>
+ <h3>
+  <a id="user-content-navbar" class="anchor" aria-hidden="true" href="#navbar"></a>
+Navbar</h3>
+<blockquote>
+ <p>Centrally placed links with subtle animation and the use of fontawesome was integral.  The choice of colours also reflected the symmetry of the project and designed to give the user a pleasurable experience.  
+</p>
+</blockquote>
+  </li>
+ <li>
+ <h3>
+  <a id="user-content-audio-player" class="anchor" aria-hidden="true" href="#audio-player"></a>
+Audio Player</h3>
+<blockquote>
+ <p>Standard HTML5 audio player with enhanced but subtle animations which again, is designed to the user a pleasurable experience.</p>
+</blockquote>
+  </li>
+  <li>
+ <h3>
+  <a id="user-content-video-player" class="anchor" aria-hidden="true" href="#video-player"></a>
+Video Player</h3>
+<blockquote>
+ <p>Standard HTML5 video player using iframe, source of video was taken from youtube.com.  The video player can play full screen if the user requires but the default size matches the structure of the page.</p>
+</blockquote>
+  </li>
+  <li>
+ <h3>
+  <a id="user-content-booking-form" class="anchor" aria-hidden="true" href="#booking-form"></a>
+Booking Form</h3>
+<blockquote>
+ <p>The booking form were taken from Bootstrap forms but customised to suit the purpose of this project.  The form fields all work but there is no post method for the form as again, it is outside the remit of this project.</p>
+</blockquote>
+  </li>
+ </ol>
  <h2>
   <a id="user-content-features-left-to-implement" class="anchor" aria-hidden="true" href="#features-left-to-implement"></a>
 Features Left To Implement</h2>
@@ -150,27 +215,12 @@ Credits</h2>
 
 
 
-•	Tour Dates Page
-This page gives the user information relating to the last gig the band played at.  They are not touring now, so it is limited but there is a fans video showcasing the band playing live at a previous gig.
 
-•	Contact Page
-This page gives the user an opportunity to submit a form to the band.  Although, all the fields can be filled out, the link to the band is not active and it is outside the remit of this project.  But the form itself is again user friendly.
 
-•	Header
-The header which is displayed on every page has a real stylish logo also the band name and their highest award they have received through album sales.
 
-•	Footer
-The footer which is displayed on every page has more information of the band, more details of their awards and the required social links.  These links highlight when hovered over but as previously mentioned, they are inactive and do not link to any external sites.
 
-•	Navbar
-Centrally placed links with subtle animation and the use of fontawesome was integral.  The choice of colours also reflected the symmetry of the project and designed to give the user a pleasurable experience.  
 
-•	Audio Player
-Standard HTML5 audio player with enhanced but subtle animations which again, is designed to the user a pleasurable experience.
 
-•	Video Player
-Standard HTML5 video player using iframe, source of video was taken from youtube.com.  The video player can play full screen if the user requires but the default size matches the structure of the page.
 
-•	Booking Form
-The booking form were taken from Bootstrap forms but customised to suit the purpose of this project.  The form fields all work but there is no post method for the form as again, it is outside the remit of this project.
+
 
