@@ -190,7 +190,9 @@ I have run the CSS through a validation site (see link https://jigsaw.w3.org/css
   <a id="user-content-deployment" class="anchor" aria-hidden="true" href="#deployment"></a>
 Deployment</h2>
 
- <p>As the website was being built and down to personal work issues (full time employed, high level of overtime), commits were spread out over time.  Therefore, heavy and long coding work was carried out when time off permitted, and the commits were made.  GitHub is up to date  and has been viewed by my mentor.</p>
+ <p>This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.</p>
+
+<p>To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://amzn1963.github.io/iron_butterfly/ into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.</p>
  
  <h2>
   <a id="user-content-credits" class="anchor" aria-hidden="true" href="#credits"></a>
